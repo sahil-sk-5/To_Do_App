@@ -1,5 +1,5 @@
 ## Todo App
-This Project contains a simple TODO application using MERN stack
+This Project contains a simple TODO application using MERN stack.
 It has the following features - 
 
     Anyone can create a todo
